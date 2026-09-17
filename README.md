@@ -15,7 +15,7 @@ generate and heal them.
 ```bash
 uv sync                              # creates .venv and installs pytest + pytest-playwright
 uv run playwright install chromium   # downloads the browser
-uv run pytest                        # runs the suite (currently one smoke test)
+uv run pytest                        # runs the suite
 ```
 
 ## Running tests
