@@ -136,7 +136,7 @@ then "Use playwright-test-healer to fix failing tests". All three run on `model:
 
 - Run the planner against the remaining playground pages to produce further `specs/*.md`.
 - Optionally add page objects / helper fixtures in `tests/conftest.py` once patterns emerge.
-- Nothing has been committed; the directory is not a git repository yet (`git init` when ready).
+- Repo: https://github.com/Ak79p/playwright-automation-playground (branch `main`, first push 2026-09-17).
 
 ## 9. Important decisions
 
