@@ -1,0 +1,26 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Playwright / pytest-playwright output
+test-results/
+playwright-report/
+*.zip
+
+# Playwright MCP session output (snapshots, screenshots)
+.playwright-mcp/
+
+# Node (only used transiently via npx)
+node_modules/
+package-lock.json
+
+# Claude Code local-only settings
+.claude/settings.local.json
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
